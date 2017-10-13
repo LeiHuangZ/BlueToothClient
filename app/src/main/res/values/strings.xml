@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueToothClient</string>
+    <string name="open_blueTooth">Open_BlueTooth</string>
+    <string name="scan_bluetooth">Scan_Bluetooth</string>
+    <string name="check_connected">Check_Connected</string>
+    <string name="bind">bind</string>
+</resources>
